@@ -24,7 +24,6 @@ public class row_test {
         System.out.println(join.getKind());
         System.out.println(join.getArity());
         System.out.println(join);
-        BaseRecommBatchOp
 
     }
 }
